@@ -1,6 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=61DAF8&height=180&section=header&text=Heeju%20Byeon&fontSize=40&fontAlign=80&fontColor=FFFFFF&animation=twinkling)
-  
+ 
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 <h4 align="center">Techs that I've used at least once</h4>
 <br>
@@ -27,4 +25,3 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer)
